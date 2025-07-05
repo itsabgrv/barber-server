@@ -1,1 +1,1 @@
-# barber-server-js
+# barber-server
